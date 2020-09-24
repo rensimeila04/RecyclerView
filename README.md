@@ -33,4 +33,18 @@
 
 ![gambar 3](ss/3.jpg)
 
+## Card View
+> Mode Cardview berisi gambar informasi dan button
+
+![gambar 4](ss/4.jpg)
+
+## Toast
+> Toast ini berfungsi untuk menamoilkan notifikasi berupa teks. Seperti contoh contoh berikut ini
+
+![gambar 5](ss/5.jpg)
+![gambar 6](ss/6.jpg)
+![gambar 7](ss/7.jpg)
+![gambar 8](ss/8.jpg)
+![gambar 9](ss/9.jpg)
+
 # Arigatōgozaimashita, Gamsahabnida,Thank you,Maturnuwun, Terimakasih🤗
